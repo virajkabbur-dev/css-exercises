@@ -1,1 +1,20 @@
 /* Add CSS Styling */
+
+.odd-elements{
+    background-color: lightpink;
+    font-family: 'Verdana', 'Dejavu Sans', sans-serif ;
+}
+
+#numero-2{
+    color: #0000ff;
+    font-size: 36px;
+}
+
+.numero-3{
+    font-size: 24px;
+}
+
+#numero-4{
+    background-color: #90ee90;
+    font-weight: bold;
+}
